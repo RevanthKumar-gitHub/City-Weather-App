@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/City-Weather-App/static/css/main.2180e994.css",
+    "main.js": "/City-Weather-App/static/js/main.39812fb3.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/City-Weather-App/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bg.jpg": "/City-Weather-App/static/media/bg.b79fd1874fa4957c8471.jpg",
+    "index.html": "/City-Weather-App/index.html",
+    "main.2180e994.css.map": "/City-Weather-App/static/css/main.2180e994.css.map",
+    "main.39812fb3.js.map": "/City-Weather-App/static/js/main.39812fb3.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/City-Weather-App/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2180e994.css",
+    "static/js/main.39812fb3.js"
+  ]
+}
